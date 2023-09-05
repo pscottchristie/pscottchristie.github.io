@@ -1,0 +1,12 @@
+---
+layout: post
+title: "a primer"
+date: 2023-09-04 19:28:15 -0400
+categories: jekyll update
+---
+
+I'll post here as I continue to learn new things.
+
+Posting will make it easier for others to learn the same things more easily, and it will help me distill the important bits into something coherent.
+
+More to come!
