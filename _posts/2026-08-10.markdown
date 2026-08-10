@@ -1,0 +1,19 @@
+---
+layout: post
+title: "i'm back"
+date: 2026-08-10 19:28:15 -0400
+categories: jekyll update
+---
+
+Whoops, I guess its been 3 years. A lot can happen in that time. A few things on my mind:
+
+## AI Coding
+AI coding became a thing in the last few years. The watershed moment was the release of Claude Code more broadly in 2025 (there might have been a model release around the time also, but I don't really keep up with those things). I went away on some PTO in October 2025-- when I left, I was still writing code. When I got back, the expectation was that engineers wouldn't be writing code at all, and instead would just be prompting + managing an large team of agents. 
+
+This was a bit jarring, and I could say more about it, but the tl;dr is that in that environment its easy for your skills to atrophy. 
+
+## More responsibility
+I was promoted to IC5 in 2025, which comes with more responsibility and more time spent doing the job. I also changed teams in early 2026 to a more high-visibility team. Overall, this means less time programming, more time "aligning". 
+
+## Next
+With all that being said, it's time program more. Stay tuned!
