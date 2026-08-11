@@ -21,7 +21,6 @@
 title: pscottchristie
 email: pscottchristie@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Make the thing go faster.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pscottchristie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: pscottchristie
